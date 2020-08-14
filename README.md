@@ -1,1 +1,1 @@
-![Meow](/assets/cat.jpg)
+![Meow](assets/cat.jpg)
