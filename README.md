@@ -1,1 +1,1 @@
-![Meow](assets/cat.jpg)
+![Meow](https://raw.githubusercontent.com/Brugman/Brugman/master/assets/cat.jpg)
